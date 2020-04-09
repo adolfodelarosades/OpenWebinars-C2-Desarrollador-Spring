@@ -44,7 +44,7 @@ Da un paso más en tu formación sobre el desarrollo de una API REST con Spring 
 
 5h y 19s Backend
 
-### Curso de seguridad en tu API REST con Spring Boot
+### 5. Curso de seguridad en tu API REST con Spring Boot
 
 Aprende a implementar la seguridad de tu API REST desarrollada con Spring Boot utilizando las diferentes opciones que nos ofrece Spring Security.
 
